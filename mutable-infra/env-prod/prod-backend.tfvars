@@ -1,3 +1,3 @@
 bucket  = "b56-terraform-state--bucket"
-key     = "mutable-infra/payment/prod/terraform.tfstate"
+key     = "prod/mutable-infra/payment/terraform.tfstate"
 region  = "us-east-1"
